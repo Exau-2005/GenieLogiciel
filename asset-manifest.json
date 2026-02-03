@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/genielogiciel/static/css/main.2f4ab517.css",
-    "main.js": "/genielogiciel/static/js/main.db9e1796.js",
+    "main.css": "/genielogiciel/static/css/main.58b70963.css",
+    "main.js": "/genielogiciel/static/js/main.ec0927cd.js",
     "static/js/453.c25b0efc.chunk.js": "/genielogiciel/static/js/453.c25b0efc.chunk.js",
     "index.html": "/genielogiciel/index.html",
-    "main.2f4ab517.css.map": "/genielogiciel/static/css/main.2f4ab517.css.map",
-    "main.db9e1796.js.map": "/genielogiciel/static/js/main.db9e1796.js.map",
+    "main.58b70963.css.map": "/genielogiciel/static/css/main.58b70963.css.map",
+    "main.ec0927cd.js.map": "/genielogiciel/static/js/main.ec0927cd.js.map",
     "453.c25b0efc.chunk.js.map": "/genielogiciel/static/js/453.c25b0efc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f4ab517.css",
-    "static/js/main.db9e1796.js"
+    "static/css/main.58b70963.css",
+    "static/js/main.ec0927cd.js"
   ]
 }
